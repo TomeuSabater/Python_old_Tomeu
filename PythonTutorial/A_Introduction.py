@@ -8,6 +8,12 @@ El repositorio remoto es un FORK del repositorio de Tomeu
 This is my first python program
 Python introduction 
 
+Pero entonces, yo puedo hacer cambios aquí abajo
+y luego subirlos a mi repositorio remoto en GitHub
+y luego hacer un PULL REQUEST al repositorio original de Tomeu
+para que Tomeu pueda ver los cambios que yo he hecho 
+y si le gustan, los puede aceptar y añadir a su repositorio original
+
 @author: bmesa
 '''
 
