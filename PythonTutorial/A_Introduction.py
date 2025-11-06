@@ -1,6 +1,10 @@
 '''
 Created on 16 oct 2023
 
+En local hago un cambio 
+El objetivo es subirlo a mi repositorio remoto en GitHub
+El repositorio remoto es un FORK del repositorio de Tomeu
+
 This is my first python program
 Python introduction 
 
