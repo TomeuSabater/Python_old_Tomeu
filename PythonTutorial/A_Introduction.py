@@ -1,9 +1,9 @@
 '''
 Created on 16 oct 2023
 
-Y hago un cambio aqui 
-Y este cambio es directo en GitHub
-No entiendo este cambio 
+En local hago un cambio 
+El objetivo es subirlo a mi repositorio remoto en GitHub
+El repositorio remoto es un FORK del repositorio de Tomeu
 
 This is my first python program
 Python introduction 
@@ -22,5 +22,3 @@ y = "hola como te va" # Creamos variable y
 
 print(x)
 print(y)
-
-
